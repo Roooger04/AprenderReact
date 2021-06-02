@@ -1,0 +1,25 @@
+{
+  "name": "aprenderreact",
+  "version": "1.0.0",
+  "description": "aprenderreact",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.14.3",
+    "@babel/core": "^7.14.3",
+    "@babel/preset-react": "^7.13.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roooger04/AprenderReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roooger04/AprenderReact/issues"
+  },
+  "homepage": "https://github.com/Roooger04/AprenderReact#readme"
+}
